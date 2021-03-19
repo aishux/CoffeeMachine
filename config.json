@@ -1,0 +1,9 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "admin_user":"admin",
+      "admin_password": "1234"
+    }
+  
+  }
