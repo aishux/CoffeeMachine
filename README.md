@@ -7,4 +7,6 @@ This project was basically demonstrated to learn **Authentication Process** in F
 
 **Password: 1234**
 
-P.S : The username and password are visible on the form and also inside config.json file.
+**Deployed on : https://coffeemachine.pythonanywhere.com/**
+
+Note : The username and password are visible on the form and also inside config.json file.
